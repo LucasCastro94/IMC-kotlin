@@ -9,6 +9,7 @@ Ferramentas utilizadas:
 * IDE Android Studio
 * Linguagem Kotlin
   
+  ![ScreenShot](https://github.com/LucasCastro94/IMC-kotlin/blob/master/screenshot.png)
 
  
 
